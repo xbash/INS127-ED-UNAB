@@ -1,6 +1,6 @@
-# INS127-Estructura de Datos - UNAB
+# INS127-Estructura de Datos
 
-INS127 Estructura de datos - Fuentes usadas en catedra y laboratorio
+INS127 Estructura de datos - Fuentes usadas en catedra y laboratorio [UNAB]
 
 Descripción:
 -	Aplicar los conceptos fundamentales relativos a los principios de abstracción y estructuras de datos.
