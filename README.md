@@ -1,4 +1,5 @@
 # INS127-Estructura de Datos - UNAB
+
 INS127 Estructura de datos - Fuentes usadas en catedra y laboratorio
 
 Descripción:
@@ -15,7 +16,6 @@ Objetivos específicos:
 -	Analizar la eficiencia de los algoritmos
 
 Contenidos:
-
 Unidad 1: Introducción a las estructuras de datos y algoritmos
 -	Introducción y datos abstractos
 -	Eficiencia de algoritmos
