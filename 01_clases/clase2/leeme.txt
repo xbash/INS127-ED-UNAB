@@ -1,0 +1,8 @@
+
+UNIDAD1 (Lenguaje C y Eficiencia de Algoritmos): SEMANA 2
+
+Punteros, arreglos y estructuras (lenguaJe C). Algoritmos de búsqueda y ordenamiento (análisis de eficiencia).
+
+ MATERIAL SEMANA 2 Archivo
+Este material considera la actividad evaluada y ejemplos de vectores, matriz dinámica y eficiencia de algoritmos.
+El viernes  24 de marzo tienen control de eficiencia de algoritmos y del documento NORMAS_LenguajeC (publicado en el material de la semana 1)

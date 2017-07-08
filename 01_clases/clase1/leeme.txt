@@ -1,0 +1,30 @@
+MATERIAL Semana 1
+
+Material semana 1:
+
+Presentación de la asignatura donde se encuentra la metodología de evaluación (cronograma, fechas, evaluaciones, ponderaciones y reglas de la asignatura).
+Diagnóstico
+Contenidos de Lenguaje C 
+Solución del diagnóstico
+Listado 1 de Estudio de lenguaje C
+Normas del lenguaje C
+Estudiar  los contenidos del lenguaje C y normas del lenguaje. Será la fuente utilizada para la actividad evaluada que se realizará el próximo viernes  24 de  marzo. Los que no asistan a dicha clase su actividad será evaluada con un 1.
+Deben empezar a desarrollar el listado 1 de ejercicios. La fecha de término de desarrollo del listado es el 26/03/2017. Cuando terminen de desarrollarlo me lo mandan al correo p.landero@uandresbello.edu adjuntando un archivo comprimido con todos los ejercicios resueltos. El ASUNTO debe decir: “Desarrollo Listado 1 Lenguaje C  sección 651”
+
+-------------------------------
+
+
+UNIDAD 1 (Lenguaje C y Eficiencia de Algoritmos): SEMANA 1
+
+Punteros, arreglos y estructuras.
+
+ MATERIAL Semana 1 Carpeta
+Material semana 1:
+Presentación de la asignatura donde se encuentra la metodología de evaluación (cronograma, fechas, evaluaciones, ponderaciones y reglas de la asignatura).
+Diagnóstico
+Contenidos de Lenguaje C 
+Solución del diagnóstico
+Listado 1 de Estudio de lenguaje C
+Normas del lenguaje C
+Estudiar  los contenidos del lenguaje C y normas del lenguaje. Será la fuente utilizada para la actividad evaluada que se realizará el próximo viernes  17 de  marzo. Los que no asistan a dicha clase su actividad será evaluada con un 1.
+Deben empezar a desarrollar el listado 1 de ejercicios. La fecha de término de desarrollo del listado es el 26/03/2017. Cuando terminen de desarrollarlo me lo mandan al correo p.landero@uandresbello.edu adjuntando un archivo comprimido con todos los ejercicios resueltos. El ASUNTO debe decir: “Desarrollo Listado 1 Lenguaje C  sección 651”
