@@ -1,0 +1,3 @@
+
+Para ordenar un arbol descendente (mayor a menor) se usa min-heap
+Para ordenar un arbol ascendente (menor a mayor) se usa max-heap
