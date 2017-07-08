@@ -1,0 +1,24 @@
+
+
+IntelliJ IDEA Java
+https://www.jetbrains.com/idea/?fromMenu
+
+A cross-platform IDE for C and C++
+https://www.jetbrains.com/clion/?fromMenu
+
+Python IDE for Professional Developers
+https://www.jetbrains.com/pycharm/?fromMenu
+
+Lightning-smart PHP IDE
+https://www.jetbrains.com/phpstorm/?fromMenu
+
+Jetbrains PHPStorm v2016.1 Gratis En Mega
+http://desdemega.com/jetbrains-phpstorm-v2016-1-gratis-mega/
+
+
+----------
+
+mingw-get-setup.exe
+codeblocks-16.01-setup.exe
+codeblocks-16.01mingw-setup.exe
+codeblocks-16.01mingw-nosetup.zip

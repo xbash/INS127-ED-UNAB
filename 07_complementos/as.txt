@@ -1,0 +1,2 @@
+https://salomonrt.wordpress.com/2011/08/09/funciones-basicas-para-listas-simplemente-ligadas-en-c/
+https://dmmolina.wordpress.com/listas-enlazadas-y-ejemplos/
