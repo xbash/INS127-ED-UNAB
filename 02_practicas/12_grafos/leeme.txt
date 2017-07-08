@@ -1,0 +1,5 @@
+http://www.dtic.upf.edu/~jonsson/acm/grafos/
+http://www.dtic.upf.edu/~jonsson/acm/ejemplos/
+http://www.grycap.upv.es/gmolto/docs/eda/EDA_Tema_14_Parte_I_gmolto.pdf
+http://lcg.ciens.ucv.ve/~ernesto/nds/CotoND200302.pdf
+http://codebotic.blogspot.cl/2014/06/implementacion-de-un-grafo-dirigido-en.html
