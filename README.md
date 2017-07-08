@@ -16,6 +16,7 @@ Objetivos específicos:
 -	Analizar la eficiencia de los algoritmos
 
 Contenidos:
+
 Unidad 1: Introducción a las estructuras de datos y algoritmos
 -	Introducción y datos abstractos
 -	Eficiencia de algoritmos
